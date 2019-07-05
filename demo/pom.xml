@@ -98,7 +98,7 @@
 			</snapshots>
 		</repository>
 		<repository>
-			<id>local</id>
+			<id>my-maven</id>
 			<url>http://localhost:8081/artifactory/my-maven</url>
 			<releases>
 				<enabled>true</enabled>
