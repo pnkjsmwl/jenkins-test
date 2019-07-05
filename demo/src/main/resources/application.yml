@@ -2,7 +2,7 @@ server:
   port: 8084
 spring:
   application:
-    name: configserver-jenkins
+    name: demo-jenkins
   cloud:
     config:
       server:
